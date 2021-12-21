@@ -2,8 +2,10 @@
 
 The Open Data Explorer is a friendly and intuitive 
 interface for discovering and visualizing open data.
-
-## Mission
+It brings together open data from a variety of sources
+into one platform so that data users can quickly find 
+datasets and create useful insights. 
+## Challenge
 
 Governments around the world publish open data:
 structured, machine-readable, freely shared data
@@ -26,8 +28,9 @@ At the minimum, a user of open data is expected to know:
 7. Transforming the data to fit the requirements of a graph
 8. Finding useful insights in the data
 
-Even seasoned data wranglers need to develop
+Even seasoned data professionals need to develop
 workflows if they  want to use open data at scale.
+## Mission
 
 The mission of the Open Data Explorer is to
 minimize the barrier needed to get to the final
@@ -55,5 +58,9 @@ open data from [Statistics Canada](https://www150.statcan.gc.ca/n1/en/type/data?
 that is consistently structured, well-documented
 and comes with an API for machine interaction.
 This makes it easy as a starting point.
-All the data sources in the Alpha come from
-Statistics Canada Open Data.
+
+## Learn more
+
+If you would like to learn more about the project
+or join us, please visit our [github](https://github.com/opendataexplorer) and
+[slack](https://join.slack.com/t/opendataexplorer/shared_invite/zt-zk2w7qqo-1VImBHr5VWaGjG_3HM8UxA).
